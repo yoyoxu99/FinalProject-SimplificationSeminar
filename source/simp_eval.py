@@ -1,4 +1,4 @@
-# simp_eval.py
+# source/simp_eval.py
 
 import json
 import argparse

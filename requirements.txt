@@ -1,0 +1,12 @@
+openai
+numpy
+scipy
+pandas
+sacremoses
+requests
+matplotlib
+textstat
+easse
+sacrebleu
+bert-score
+torch
